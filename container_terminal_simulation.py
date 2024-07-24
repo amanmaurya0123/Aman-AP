@@ -1,7 +1,7 @@
 import simpy
 import random
 
-# Constants
+
 AVG_TIME_BETWEEN_ARRIVALS = 5 * 60  
 NUM_CONTAINERS = 150
 TIME_PER_CONTAINER = 3  
